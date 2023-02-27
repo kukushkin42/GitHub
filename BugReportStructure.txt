@@ -1,0 +1,15 @@
+1) Unique ID
+2) Priority / Severity, Priority
+3) Title
+4) Environment
+5) Preconditions
+6) Steps to reproduce
+7) Actual result
+8) Expected result
+9) Attachments
+10) Affected versions
+11) Fix versions
+12) Found by
+13) Assignee to
+14) Tags
+
